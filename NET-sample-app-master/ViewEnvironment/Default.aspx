@@ -36,7 +36,7 @@
                         <asp:Label ID="lblTime" runat="server"></asp:Label></em></p>
                     <p>The current .NET version is <em>
                         <asp:Label ID="lblDotNetVersion" runat="server"></asp:Label></em></p>
-                    <p>My Name is VIMAL SINGH <em>
+                    <p>My Name is Singh Vimal<em>
                         <asp:Label ID="lblPort" runat="server"></asp:Label></em></p>
                     <p>The instance ID is <em>
                         <asp:Label ID="lblInstanceID" runat="server"></asp:Label></em></p>
